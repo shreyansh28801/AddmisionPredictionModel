@@ -14,9 +14,9 @@ The script requires the following dependencies:
 
 You can install these dependencies using pip:
 
-```shell
+```
 pip install pandas scikit-learn seaborn numpy joblib
-```shell
+```
 
 ## Usage
 
@@ -24,7 +24,7 @@ Ensure that the dataset file 'Admission_Predict.csv' is present in the same dire
 
 Run the script using a Python interpreter.
 
-```shell
+```
 python admission_prediction_model.py
 ```
 
