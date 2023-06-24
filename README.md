@@ -23,6 +23,3 @@ You can install these dependencies using pip:
 ```shell
 pip install pandas scikit-learn seaborn numpy joblib
 
-
-
-
