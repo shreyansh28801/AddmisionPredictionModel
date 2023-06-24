@@ -26,7 +26,7 @@ Run the script using a Python interpreter.
 
 ```shell
 python admission_prediction_model.py
-```shell
+```
 
 The script performs the following steps:
 
