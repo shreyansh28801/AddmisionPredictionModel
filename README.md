@@ -62,8 +62,7 @@ The script performs the following steps:
 ###Displays a bar plot showing the accuracy scores of each model.
 
 ## Screenshots of Project
-![Screenshot (865)](https://github.com/shreyansh28801/AddmisionPredictionModel/assets/81692600/8dfaf658-d192-44d1-87ef-7d081f578193)
-
+![Screenshot (867)](https://github.com/shreyansh28801/AddmisionPredictionModel/assets/81692600/9467c8d3-39ae-4deb-ab0f-af342229fb9a)
 
 ##Model Saving
 - Saves the trained Gradient Boosting Classifier model using joblib.
